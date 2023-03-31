@@ -16,6 +16,8 @@ These files are data visualized using matplotlib in Python
 Tableau Dashboard links:
 
 Market Analysis: https://public.tableau.com/app/profile/abhishank.khadka/viz/WatchMarket/MarketAnalysis
+
+
 Demand Analysis: https://public.tableau.com/app/profile/abhishank.khadka/viz/WatchMarketDemandAnalysis/DemAnalysis
 
 A static pdf copy of the dashboards are added in this folder
