@@ -12,3 +12,10 @@ These files are exported from the .ipynb file which will then be used to create 
 
 Png files: 
 These files are data visualized using matplotlib in Python 
+
+Tableau Dashboard links:
+
+Market Analysis: https://public.tableau.com/app/profile/abhishank.khadka/viz/WatchMarket/MarketAnalysis
+Demand Analysis: https://public.tableau.com/app/profile/abhishank.khadka/viz/WatchMarketDemandAnalysis/DemAnalysis
+
+A static pdf copy of the dashboards are added in this folder
